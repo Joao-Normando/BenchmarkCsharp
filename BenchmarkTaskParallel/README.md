@@ -1,1 +1,2 @@
-# BenchmarkParalelismo
+## BenchmarkParalelismo
+#### Utilizando Task Parallel
